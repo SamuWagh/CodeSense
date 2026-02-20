@@ -42,7 +42,7 @@ Easy to modify for file export (.txt, .md)
 
 ▶️ How to Run the Project
 1️⃣ Clone or Download the Repository
-git clone https://github.com/your-username/CodeSense.git
+git clone https://github.com/SamuWagh/CodeSense.git
 
 
 ⭐ Support
